@@ -1,0 +1,26 @@
+# Fichiers générés
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Fichiers système
+*.log
+*.vs
+.vscode/
+*.suo
+*.user
+*.userprefs
+*.opensdf
+*.sdf
+*.cache
+*.pdb
+*.VC.db
+*.sln
+
+# Dossiers de build
+Build/
+
+# Autres
+.vscode/
+.idea/
